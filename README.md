@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KUMUD1289
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning ASP.net
-- 💞️ I’m looking to collaborate on software development, website desiging and AI
 - 📫 How to reach me , kumudbharti2002@gmail.com
 
 <!---
